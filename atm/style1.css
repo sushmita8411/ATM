@@ -1,0 +1,10 @@
+/* style.css */
+body {
+    background-image: url("thailand-1283SUD-1.jpg"); /* Path to your background image */
+    background-size: cover; /* Cover the whole viewport */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keeps the background fixed when scrolling */
+    color: #fff; /* Optional: Change text color for contrast */
+    font-family: Arial, sans-serif;
+}
